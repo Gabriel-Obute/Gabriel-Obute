@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabriel-Obute
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Business Analysis
-- 💞️ I’m looking to collaborate on SQL 
+- 💞️ I’m looking to collaborate on SQL and R
 - 📫 How to reach me through my mail obutegabriel1@gmail.com or +23480-697-53666
 
 <!---
