@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabriel-Obute
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Business Analysis
-- 💞️ I’m looking to collaborate on SQL and R
+- 👀 I’m interested in Business analysis (BA), Quality Assurance (QA)
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Writing Business requirement (Both functional and non-functional) and Postgrep SQL  
 - 📫 How to reach me through my mail obutegabriel1@gmail.com or +23480-697-53666
 
 <!---
